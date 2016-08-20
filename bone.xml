@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bone>
+    <body>
+        <top>
+            <name>neck</name>
+            <name>head</name>
+        </top>
+        
+        <left_arm>
+            <name>lshoulder</name>
+			<name>lupperarm</name>
+			<name>lelbow</name>
+			<name>llowerarm</name>           
+        </left_arm>
+        
+        <right_arm>
+            <name>rshoulder</name>
+			<name>rupperarm</name>
+			<name>relbow</name>
+			<name>rlowerarm</name> 
+        </right_arm>
+        
+        <left_leg>
+            <name>lhip1</name>
+			<name>lhip2</name>
+			<name>lthigh</name>
+			<name>lshank</name>
+			<name>lankle</name>
+			<name>lfoot</name> 
+        </left_leg>
+        
+        <right_leg>
+            <name>rhip1</name>
+			<name>rhip2</name>
+			<name>rthigh</name>
+			<name>rshank</name>
+			<name>rankle</name>
+			<name>rfoot</name>
+        </right_leg>
+    </body>
+</bone>
